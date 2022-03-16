@@ -1,0 +1,19 @@
+---
+author: "Elizabeth Lundeen"
+date: "3/15/2022"
+output: pdf_document
+---
+
+# **Getting and Cleaning Data Course Project Code Book**
+
+The data set described in this code book is located in the tidy_data.txt file of this repository.
+
+See the README.md file of this repository for background information on this data set.
+
+## **Data**
+The original data have been cleaned and prepared as tidy data and are contained in a text file called tidy_data.txt.
+
+The first row in the text file contains the variable names and the subsequent rows contain the data.
+
+## **Description of variables in the tidy_data.txt file**
+
