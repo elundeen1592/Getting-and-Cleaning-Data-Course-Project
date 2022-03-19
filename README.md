@@ -20,7 +20,7 @@ Steps to create a tidy dataset:
 
 4. The next step was to appropriately label the data set with descriptive variable names. 
 
-5.Finally, an independent tidy data set was created which contains the average of each variable for each activity and each subject.
+5. Finally, an independent tidy data set was created which contains the average of each variable for each activity and each subject.
 
 
 Following is information about the experiment and original dataset from the original README file:
