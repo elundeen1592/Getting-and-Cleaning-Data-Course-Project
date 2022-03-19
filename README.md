@@ -5,6 +5,7 @@ In this experiment, 30 volunteers aged 19-48 years donned a wearable computer, s
 
 Original data for the project can be found at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 The codebook in this repository contains further details on the tidy data set. The original data have been cleaned and prepared as tidy data and are contained in a text file called tidy_data.txt. The first row in the text file contains the variable names and the subsequent rows contain the data for each of the 30 participants (1 row per participant per activity [30 x 6 = 180 rows]).
 
 Data Cleaning and Transformations to Create the Tidy Dataset
