@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-Getting and Cleaning Data Course Project
+
 In this experiment, 30 volunteers aged 19-48 years donned a wearable computer, specifically a smartphone (Samsung Galaxy S II) on their waists that had an embedded accelerometer and gyroscope. Measurements were taken for each person as they performed six activities (WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING). 
 
 Original data for the project can be found at:
